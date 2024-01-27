@@ -8,21 +8,21 @@ services:
     image: web-app
     container_name: web-container
     networks:
-      backend:
-        ipv4_address: 172.20.0.5
+      - backend
     restart: always
     environment:
       - MYSQL_HOST=db
       - MYSQL_PORT=3306
       - MYSQL_USER=${MYSQL_USER}
       - MYSQL_PASSWORD=${MYSQL_PASSWORD}
+    ports:
+      - "62.84.120.183:8080:80"  # Привязка к внешнему IP и проброс порта 8080
 
   db:
     image: mysql:8
     container_name: db-container
     networks:
-      backend:
-        ipv4_address: 172.20.0.10
+      - backend
     restart: on-failure
     environment:
       - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
