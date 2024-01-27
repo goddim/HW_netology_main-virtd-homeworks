@@ -29,7 +29,10 @@ docker node ls
 ```
 5. (необязательное задание *). Задеплойте ваш python-fork из предыдущего ДЗ в получившийся кластер.
 6. Удалите стенд.
+### ОТВЕТ 
+![image](https://github.com/goddim/HW_netology_main/assets/132663924/760af16a-dab2-4251-a0f4-747d5da9d20b)
 
+![image](https://github.com/goddim/HW_netology_main/assets/132663924/646e0c94-ec26-4b63-a12d-ff418713b67b)
 
 ## Задача 3 (*)
 
