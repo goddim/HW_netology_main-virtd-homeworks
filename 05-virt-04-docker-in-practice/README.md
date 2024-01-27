@@ -1,4 +1,4 @@
-![image](https://github.com/goddim/HW_netology_main-virtd-homeworks/assets/132663924/a9a8c501-8f7e-4c45-bf3c-59fdc5fea95f)# Домашнее задание к занятию 5. «Практическое применение Docker»
+# Домашнее задание к занятию 5. «Практическое применение Docker»
 
 ### Инструкция к выполнению
 
