@@ -53,6 +53,10 @@
 ### ОТВЕТ
 ![image](https://github.com/goddim/HW_netology_main/assets/132663924/e81786bd-7aff-4dc0-8189-3901120f8bd1)
 ![image](https://github.com/goddim/HW_netology_main/assets/132663924/791584e9-d49a-4192-9330-e2290de9c889)
+![image](https://github.com/goddim/HW_netology_main/assets/132663924/d426cd82-22a8-43f9-a582-0fd99100c062)
+
+https://github.com/goddim/HW_netology_main-virtd-homeworks
+https://github.com/goddim/HW_netology_main-virtd-homeworks/tree/shvirtd-1/05-virt-04-docker-in-practice
 
 
 
