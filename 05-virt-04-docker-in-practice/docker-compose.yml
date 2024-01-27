@@ -16,7 +16,7 @@ services:
       - MYSQL_USER=${MYSQL_USER}
       - MYSQL_PASSWORD=${MYSQL_PASSWORD}
     ports:
-      - "62.84.120.183:8080:80"  # Привязка к внешнему IP и проброс порта 8080
+      - "8080:80"  # Привязка порта 8080 на все доступные IP-адреса
 
   db:
     image: mysql:8
