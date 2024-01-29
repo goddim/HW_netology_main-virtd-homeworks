@@ -41,7 +41,8 @@
 
 6. Остановите проект. В качестве ответа приложите скриншот sql-запроса.
 ### ОТВЕТ
-![image](https://github.com/goddim/HW_netology_main/assets/132663924/bda6c7ca-6fd2-4cd6-868f-44da777d842b)
+![image](https://github.com/goddim/HW_netology_main/assets/132663924/8f2fcc8c-8bdd-4575-b7f1-55020c8ca00b)
+
 
 ## Задача 4
 1. Запустите в Yandex Cloud ВМ (вам хватит 2 Гб Ram).
