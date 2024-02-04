@@ -41,7 +41,8 @@
 
 6. Остановите проект. В качестве ответа приложите скриншот sql-запроса.
 ### ОТВЕТ
-![image](https://github.com/goddim/HW_netology_main/assets/132663924/8f2fcc8c-8bdd-4575-b7f1-55020c8ca00b)
+![image](https://github.com/netology-code/virtd-homeworks/assets/132663924/1e024da4-43a3-4828-999e-54f48342df21)
+
 
 
 ## Задача 4
